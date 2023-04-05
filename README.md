@@ -1,5 +1,5 @@
 # EDA_Airbnb
-Exploratory Data Analysis Project using Python and it's Libraries like Pandas, Numpy, Matplotlab and Seaborn on Airbnb Booking Analysis Dataset.
+Exploratory Data Analysis Project using Python and it's Libraries like Pandas, Numpy, Matplotlib and Seaborn on Airbnb Booking Analysis Dataset.
 
 LinkedIn Profile : http://www.linkedin.com/in/samadhan-tangde-5a8020253
 
@@ -9,4 +9,5 @@ The project began with a comprehensive understanding of the Airbnb dataset, incl
 
 Exploratory data analysis projects on Airbnb typically involve investigating patterns and trends in various aspects of the platform, such as pricing, popularity, and availability of listings. This data can be used to gain insights into consumer behavior and preferences, as well as to inform marketing and business strategies for hosts and Airbnb as a company. Techniques such as data visualization and objective solution may be used to analyze the data and draw meaningful conclusions.
 
-# Along with this Google Colab is also added where data manipulation and visualization did and drawn some insights. 
+# Used IDE: Google Colab 
+Along with this Google Colab is also added where data manipulation and visualization did and drawn some insights. 
